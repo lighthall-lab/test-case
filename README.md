@@ -33,6 +33,7 @@ You should be able to use Python to read in the trial-level data set and:
 2. Transform the dataset to subject-level with the following values:
 
 | subjnum | mean_estimation_error | stdev_estimation_error | mean_choicert | mean_esttaskrt | mean_outcomert |
+| ------- | --------------------- | ---------------------- | ------------- | -------------- | -------------- |
 | 101     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
 | 102     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
 | 103     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
