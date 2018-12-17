@@ -37,3 +37,4 @@ You should be able to use Python to read in the trial-level data set and:
 | 101     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
 | 102     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
 | 103     | xxx                   | xxx                    | xxx           | xxx            | xxx            |
+| ...     | ...                   | ...                    | ...           | ...            | ...            |
